@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 impor4 React from 'react'
 
 export const 235 = () => {
@@ -6,6 +5,4 @@ export const 235 = () => {
     <div>235</div>
   )
 }
-=======
 ewntewk
->>>>>>> yyy

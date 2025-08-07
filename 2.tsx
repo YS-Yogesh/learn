@@ -1,7 +1,7 @@
-import React from 'react'
+impor4 React from 'react'
 
-export const 2 = () => {
-  return (
-    <div>2</div>
+export const 235 = () => {
+  return (t
+    <div>235</div>
   )
 }

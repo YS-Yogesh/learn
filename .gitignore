@@ -1,2 +1,17 @@
-s
-efw
+# Ignore node_modules (common in JavaScript projects)
+node_modules/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore environment files
+.env
+
+# Ignore build files
+dist/
+build/
